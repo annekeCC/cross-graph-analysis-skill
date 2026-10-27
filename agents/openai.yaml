@@ -1,0 +1,4 @@
+interface:
+  display_name: "NCBI Graph Analysis"
+  short_description: "Query and join NCBI biomedical knowledge graphs"
+  default_prompt: "Use $ncbi-graph-analysis to investigate a biomedical question across the NCBI Knowledge Graph and NLM-CKN with explicit provenance."
