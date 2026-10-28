@@ -1,4 +1,4 @@
-# Cross Graph Analysis
+# Cross Graph Analysis Skill
 
 A Codex skill with a read-only Python command-line client for investigating biomedical questions across a proof of concept small knowledge graph of NCBI data and the NLM Cell Knowledge Network (NLM-CKN). It queries the graphs separately, joins records using explicit identifiers, and produces JSON results and Markdown evidence reports with source provenance, coverage gaps, and query details. The Python commands can also be run directly without Codex.
 
